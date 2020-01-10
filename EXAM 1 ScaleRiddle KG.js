@@ -67,4 +67,4 @@ let scaleRiddle = arr => {
   }
 };
 
-console.log(scaleRiddle(balls));
+console.log("Searching ball index: ", scaleRiddle(balls));

@@ -68,4 +68,4 @@ let scaleRiddle = arr => {
 };
 
 console.log("Searching ball index:", scaleRiddle(balls));
-console.log(`Searching ball index: ${scaleRiddle(balls)}`);
+// console.log(`Searching ball index: ${scaleRiddle(balls)}`);
